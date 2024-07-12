@@ -1,3 +1,7 @@
+## ViT 相关解析
+https://blog.csdn.net/weixin_44966641/article/details/118733341
+https://blog.csdn.net/weixin_44966641/article/details/118683248?spm=1001.2014.3001.5501
+
 ## 在较大的数据集上预训练，随后在下游数据集上微调用于图像分类。这两步是怎么做的，参数需要冻结吗？
 在Vision Transformer（ViT）模型的最后几步骤中，通常涉及以下两个主要阶段：
 
